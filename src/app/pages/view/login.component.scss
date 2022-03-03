@@ -1,0 +1,21 @@
+
+.login-wrapper{
+    color: white;
+    background-image: url('../../../assets/images/cake_store.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.input{
+    height: 30px;
+}
+
+.button{
+    height: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-image: linear-gradient(to bottom right, red, gray);
+}
+.footer{
+    background-image: linear-gradient(to bottom right, blue, grey);
+}
+
